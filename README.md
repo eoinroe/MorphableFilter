@@ -4,4 +4,4 @@ A virtual analog filter that models the nonlinearities of the Moog ladder filter
 
 The filter does not require any dependencies and should fit seamlessly into any C++ audio application.  An example JUCE application is provided to illustrate how to use it.
 
-![Block Diagram](blockdiagram.png)
+![System](system.png)
